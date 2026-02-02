@@ -5,17 +5,17 @@ This repository describes my computer setup (what tools/programs I use, what ope
 ## Operating System
 1. Laptop: Because of my schools reliance on Microsoft 365 Products & Services I must either use Windows or macOS on my Laptop for school, out of these two I choose macOS.
 
-2. Desktop: On desktop I typically use a Linux distrobution with a quick or rolling release cycle (e.g. Fedora, Arch, Void, etc.)
+2. Desktop: On desktop I typically use a Linux distribution with a quick or rolling release cycle (e.g. Fedora, Arch, Void, etc.)
 
-3. Server: On servers I typically use a Linux distrobution with a slow release cycle (e.g. Debian, Rocky, etc.)
+3. Server: On servers I typically use a Linux distribution with a slow release cycle (e.g. Debian, Rocky, etc.)
 
 ## Web Browser
-The web browser I use is Vivaldi. Vivaldi is a chromium-based web browser that is majority opensource; the only part of Vivaldi that isn't opensource is the UI. I use Vivaldi for the following reasons:
+The web browser I use is Vivaldi. Vivaldi is a chromium-based web browser that is majority open-source; the only part of Vivaldi that isn't open-source is the UI. I use Vivaldi for the following reasons:
 1. It's chromium-based making it play nicely on the web.
 2. It's based in Norway, not the USA.
 3. It's company doesn't have any major negative political drama.
 4. It's strong stance against AI integration.
 5. It's CEO, Jon Stephenson von Tetzchner isn't a dickhead.
-6. It's abudance of features
+6. It's abundance of features
 7. It's features are completely optional.
 8. It's flexible UI.
