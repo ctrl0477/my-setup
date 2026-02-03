@@ -16,6 +16,7 @@ The web browser I use is Vivaldi. Vivaldi is a chromium-based web browser that i
 3. It's company doesn't have any major negative political drama.
 4. It's strong stance against AI integration.
 5. It's CEO, Jon Stephenson von Tetzchner isn't a dickhead.
-6. It's abundance of features
-7. It's features are completely optional.
-8. It's flexible UI.
+6. It's company is employee-owned, no external investors.
+8. It's abundance of features
+9. It's features are completely optional.
+10. It's flexible UI.
